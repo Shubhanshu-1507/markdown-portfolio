@@ -1,4 +1,6 @@
- ##  <p ><a href="https://github.com/Shubhanshu-1507"><img src="https://img.icons8.com/nolan/2x/github.png" height="35" width="35" align="center"></a> <a href="https://shubhanshu-1507.github.io/markdown-portfolio/">  PORTFOLIO-@SHUBHANSHU-1507 </a></p>
+--- 
+ <a href="https://github.com/Shubhanshu-1507"><img src="https://img.icons8.com/nolan/2x/github.png" height="35" width="35" align="center"></a> <a href="https://shubhanshu-1507.github.io/markdown-portfolio/">  PORTFOLIO-@SHUBHANSHU-1507 </a>
+---
 ### Social : 
 <a href="https://twitter.com/intent/follow?screen_name=shubhanshukus15"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="25" height="25"></a>
 <a href="https://www.linkedin.com/in/shubhanshu-kushwaha-850b87141/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="25" height="30"></a>
